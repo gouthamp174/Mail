@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.read-mail {
+  background-color: lightgray;
+}
+
+.read-mail:hover {
+  background-color: gainsboro;
+}
+
+.unread-mail {
+  background-color: white;
+  font-weight: bold;
+}
