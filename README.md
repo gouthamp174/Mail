@@ -5,7 +5,7 @@
 This website is an Email service to send and receive emails. Users can create their account, view emails, compose emails and send them to other users.
 
 
-# WEBSITE LAYOUT
+## WEBSITE LAYOUT
 This website is designed as a single-page application where most of the front-end user experience is handled using Javascript code. At the same time back-end support to save and retrieve emails are handled using Django web framework and it's internal database.
 
 1. When users visit this website, they are initially redirected to a login page. For new users, it also has a link to register as first-time user. Existing users can login by providing their username and password.
