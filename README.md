@@ -5,6 +5,10 @@
 This website is an Email service to send and receive emails. Users can create their account, view emails, compose emails and send them to other users.
 
 
+## VIDEO LINK
+https://www.youtube.com/watch?v=mzBozAyAZBU
+
+
 ## WEBSITE LAYOUT
 This website is designed as a single-page application where most of the front-end user experience is handled using Javascript code. At the same time back-end support to save and retrieve emails are handled using Django web framework and it's internal database.
 
@@ -35,8 +39,3 @@ This website is designed as a single-page application where most of the front-en
 	 3. Users can edit and submit it to reply to the parent mail.
 
 8. Logout: Clicking on this button on homepage will log out current user. Users will have to login once again to access their emails.
-
-
-## VIDEO LINK
-https://www.youtube.com/watch?v=mzBozAyAZBU
-
